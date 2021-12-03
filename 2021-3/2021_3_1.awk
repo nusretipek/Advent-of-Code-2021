@@ -11,6 +11,6 @@ NR==1{arr = split($1, master_digits, "");
 {split($1, digits, "");for (i in digits){master_digits[i] += digits[i]}}
 END{gamma = "";epsilon = "";
  for (i in master_digits){
-	 if(master_digits[i] > int(NR/2)){gamma = (gamma)"1"; epsilon = (epsilon)"0"} 
-	 else{gamma = (gamma)"0"; epsilon = (epsilon)"1"}}
+   if(master_digits[i] > int(NR/2)){gamma = (gamma)"1"; epsilon = (epsilon)"0"} 
+   else{gamma = (gamma)"0"; epsilon = (epsilon)"1"}}
  print "Solution_1: " binary2decimal(gamma)*binary2decimal(epsilon)}
