@@ -9,7 +9,7 @@
 |[01](https://adventofcode.com/2021/day/1)|[Day 1](2021-1/2021_1.awk)|⭐⭐|
 |[02](https://adventofcode.com/2021/day/2)|[Day 2](2021-2/2021_2.awk)|⭐⭐|
 |[03](https://adventofcode.com/2021/day/3)|[Day 3.1](2021-3/2021_3_1.awk) - [Day 3.2](2021-3/2021_3_2.awk)|⭐⭐|
-|[04](https://adventofcode.com/2021/day/4)|Pass for later||
+|[04](https://adventofcode.com/2021/day/4)|[Day 4](2021-4/2021_4.awk)|⭐⭐|
 |[05](https://adventofcode.com/2021/day/5)|[Day 5.1](2021-5/2021_5_1.awk) - [Day 5.2](2021-5/2021_5_2.awk)|⭐⭐|
 |[06](https://adventofcode.com/2021/day/6)|[Day 6](2021-6/2021_6.awk)|⭐⭐|
 <!--|[07](https://adventofcode.com/2021/day/7)|[view](solutions/day06.rb)||
