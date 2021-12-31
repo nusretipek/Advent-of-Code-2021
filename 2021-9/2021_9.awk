@@ -1,5 +1,4 @@
 #! /usr/bin/gawk -f
-
 function checkElementArr(tempArr, j, k){for (i in tempArr){if (tempArr[i] == j k){return 1}}{return 0}}
 
 function arrLength(inputArr){len = 0; for (i in inputArr){len++}; return len}
